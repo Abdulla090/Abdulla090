@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="670" height="307" viewBox="0 0 670 307" role="img" aria-labelledby="title desc">
+<title id="title">CELL FORGE — GitHub portfolio project</title><desc id="desc">Editorial typography project tile, BIOLOGY / INTERACTIVE WEBGL.</desc>
+<style>.display{font-family:Arial,'Helvetica Neue',Helvetica,sans-serif;font-weight:900}.micro{font-family:'Courier New',monospace;font-size:12px;letter-spacing:1.4px} @media(prefers-reduced-motion:no-preference){.accent{animation:shift 9s ease-in-out infinite}@keyframes shift{0%,100%{opacity:1}50%{opacity:.48}}}</style>
+<rect width="670" height="307" fill="#2842E7"/>
+<path d="M34 63H635 M34 258H635" stroke="#7689F9" stroke-width="1" />
+<text x="35" y="39" class="micro" fill="#F5F3ED">06 / EXPERIMENTAL 3D</text>
+<text x="634" y="39" text-anchor="end" class="micro" fill="#C6D0FF">AA / WORKS 2026</text>
+<text x="34" y="154" class="display" fill="#F5F3ED" font-size="106" letter-spacing="-5">CELL</text><text x="34" y="235" class="display" fill="#F5F3ED" font-size="106" letter-spacing="-5">FORGE</text>
+<text x="36" y="286" class="micro" fill="#F5F3ED">BIOLOGY / INTERACTIVE WEBGL</text>
+<g class="accent" fill="none" stroke="#F4F1EA" stroke-width="3"><path d="M599 279h35v-35"/><path d="M611 267l23-23"/></g>
+</svg>
