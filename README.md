@@ -5,8 +5,8 @@
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <img src="./assets/hero-light.svg" width="100%" alt="Abdulla Aziz Hameed, written in Latin and in Sorani Kurdish (عەبدوڵڵا). Medical physics student building Kurdish-first software.">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg?v=2">
+  <img src="./assets/hero-light.svg?v=2" width="100%" alt="Abdulla Aziz Hameed, written in Latin and in Sorani Kurdish (عەبدوڵڵا). Medical physics student building Kurdish-first software.">
 </picture>
 
 <br>
@@ -18,8 +18,8 @@ I study medical physics at Salahaddin University in Erbil, and I build software 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-now-dark.svg">
-  <img src="./assets/sec-now-light.svg" width="100%" alt="01 Now">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-now-dark.svg?v=2">
+  <img src="./assets/sec-now-light.svg?v=2" width="100%" alt="01 Now">
 </picture>
 
 **Shipping Reelcart (بازارگە).** A store builder for people who already sell on Instagram, TikTok and WhatsApp in Iraq and the Kurdistan Region: one link for the bio, a visible price on every product, cash-on-delivery orders handed to WhatsApp, and analytics that show which platform made the sale.
@@ -28,14 +28,14 @@ I study medical physics at Salahaddin University in Erbil, and I build software 
 
 <a id="work"></a>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-work-dark.svg">
-  <img src="./assets/sec-work-light.svg" width="100%" alt="02 Work">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-work-dark.svg?v=2">
+  <img src="./assets/sec-work-light.svg?v=2" width="100%" alt="02 Work">
 </picture>
 
 <a href="https://bazarga.vercel.app">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/plate-reelcart-dark.svg">
-  <img src="./assets/plate-reelcart-light.svg" width="100%" alt="01 Reelcart, بازارگە. Store builder for Instagram, TikTok and WhatsApp sellers.">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/plate-reelcart-dark.svg?v=2">
+  <img src="./assets/plate-reelcart-light.svg?v=2" width="100%" alt="01 Reelcart, بازارگە. Store builder for Instagram, TikTok and WhatsApp sellers.">
 </picture>
 </a>
 
@@ -46,8 +46,8 @@ Reels in, cart out. Next.js 16, Postgres with Drizzle, Tailwind 4 and next-intl,
 
 <a href="https://medicalphysics.vercel.app">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/plate-medicalphysics-dark.svg">
-  <img src="./assets/plate-medicalphysics-light.svg" width="100%" alt="02 Medical Physics. Radiology and medical imaging, taught in Sorani.">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/plate-medicalphysics-dark.svg?v=2">
+  <img src="./assets/plate-medicalphysics-light.svg?v=2" width="100%" alt="02 Medical Physics. Radiology and medical imaging, taught in Sorani.">
 </picture>
 </a>
 
@@ -58,8 +58,8 @@ A learning platform for medical imaging students, in Sorani: radiology courses, 
 
 <a href="https://kurdistanai.app">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/plate-kurdistanai-dark.svg">
-  <img src="./assets/plate-kurdistanai-light.svg" width="100%" alt="03 Kurdistan AI. An AI journal written in Kurdish Sorani.">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/plate-kurdistanai-dark.svg?v=2">
+  <img src="./assets/plate-kurdistanai-light.svg?v=2" width="100%" alt="03 Kurdistan AI. An AI journal written in Kurdish Sorani.">
 </picture>
 </a>
 
@@ -70,8 +70,8 @@ A journal about artificial intelligence, written in Kurdish Sorani: articles, ne
 
 <a href="https://imanikurd.vercel.app">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/plate-imanikurd-dark.svg">
-  <img src="./assets/plate-imanikurd-light.svg" width="100%" alt="04 Iman, ئیمان. A Kurdish Islamic community platform.">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/plate-imanikurd-dark.svg?v=2">
+  <img src="./assets/plate-imanikurd-light.svg?v=2" width="100%" alt="04 Iman, ئیمان. A Kurdish Islamic community platform.">
 </picture>
 </a>
 
@@ -82,8 +82,8 @@ A Kurdish Islamic community platform (ئیمان). Open source under MIT.<br>
 
 <a id="index"></a>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-index-dark.svg">
-  <img src="./assets/sec-index-light.svg" width="100%" alt="03 Index">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-index-dark.svg?v=2">
+  <img src="./assets/sec-index-light.svg?v=2" width="100%" alt="03 Index">
 </picture>
 
 **05 &nbsp; Zheer Saz Voice** &nbsp;—&nbsp; Kurdish Sorani speech and text tools. <sub>[LIVE ↗](https://zheer-voice.vercel.app) · [SOURCE ↗](https://github.com/Abdulla090/zheer-voice)</sub><br>
@@ -98,8 +98,8 @@ A Kurdish Islamic community platform (ئیمان). Open source under MIT.<br>
 
 <a id="contact"></a>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-contact-dark.svg">
-  <img src="./assets/sec-contact-light.svg" width="100%" alt="04 Contact">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sec-contact-dark.svg?v=2">
+  <img src="./assets/sec-contact-light.svg?v=2" width="100%" alt="04 Contact">
 </picture>
 
 [kurdistanai.app](https://kurdistanai.app) &nbsp;/&nbsp; [X @Abdullla_ai](https://x.com/Abdullla_ai) &nbsp;/&nbsp; [All repositories](https://github.com/Abdulla090?tab=repositories)
@@ -107,6 +107,6 @@ A Kurdish Islamic community platform (ئیمان). Open source under MIT.<br>
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/colophon-dark.svg">
-  <img src="./assets/colophon-light.svg" width="100%" alt="Colophon: set in Instrument Serif, IBM Plex Mono and Noto Naskh Arabic, drawn as outlines. Erbil, 2026.">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/colophon-dark.svg?v=2">
+  <img src="./assets/colophon-light.svg?v=2" width="100%" alt="Colophon: set in Instrument Serif, IBM Plex Mono and Noto Naskh Arabic, drawn as outlines. Erbil, 2026.">
 </picture>
